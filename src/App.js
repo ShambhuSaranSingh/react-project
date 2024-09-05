@@ -5,17 +5,17 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src="https://ums.lpu.in/lpuums/assets/login/img/logos/seal.svg" className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://ums.lpu.in/lpuums/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Shambhu Saran Singh welcome to lpu
         </a>
       </header>
     </div>
