@@ -21,9 +21,34 @@ root.render(
       <p>It is a paragraph</p>
     </div> */}
 
-    <>
+    {/* <>
     <h1>Hello {name}</h1>
     <p>you are in LPU</p>
+    </> */}
+
+    <>
+    <table>
+      <tr>
+        <th>Name</th>
+        <th>reg no</th>
+        <th>Course</th>
+      </tr>
+      <tr>
+        <td>Shambhu</td>
+        <td>2020</td>
+        <td>B.Tech</td>
+      </tr>
+      <tr>
+        <td>Shambhu</td>
+        <td>2020</td>
+        <td>B.Tech</td>
+      </tr>
+      <tr>
+        <td>Shambhu</td>
+        <td>2020</td>
+        <td>B.Tech</td>
+      </tr>
+    </table>
     </>
   </React.StrictMode>
 );
